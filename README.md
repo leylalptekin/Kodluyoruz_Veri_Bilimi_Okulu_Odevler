@@ -2,5 +2,5 @@
  Python dilinde verilen ödevlerin cevapları
  
  
- 
+  
  
